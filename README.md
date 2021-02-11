@@ -8,5 +8,6 @@ Truffle and OpenZeppelin versions used in project:
   * Name: NjoumElile
   * Symbol: NEL
 ##### Token Address on the Rinkeby Network:
-Etherscan: 0x44b552ab66a58cb01aa2f7cd8134bdf0a5c009b6
-https://rinkeby.etherscan.io/address/0x44b552ab66a58cb01aa2f7cd8134bdf0a5c009b6
+Token address: 0x44b552ab66a58cb01aa2f7cd8134bdf0a5c009b6
+
+Etherscan: https://rinkeby.etherscan.io/address/0x44b552ab66a58cb01aa2f7cd8134bdf0a5c009b6
